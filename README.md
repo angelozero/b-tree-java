@@ -69,18 +69,3 @@ public boolean search(int key) {
 ### Conclusão
 
 A B-Tree é uma estrutura de dados poderosa e eficiente para armazenamento e recuperação de dados. Sua capacidade de manter os dados ordenados e sua eficiência em operações de leitura e escrita a tornam uma escolha popular em sistemas de gerenciamento de banco de dados.
-
-### Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone <URL do repositório>
-   ```
-2. Compile o código:
-   ```bash
-   javac Main.java
-   ```
-3. Execute o programa:
-   ```bash
-   java Main
-   ```
